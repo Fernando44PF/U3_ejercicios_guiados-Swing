@@ -1,4 +1,5 @@
-## Ejercicios Guiados 3
+# Ejercicios Guiados 3
+## Fernando Miguel Olvera Juárez
 
 | ID | Nombre del Archivo | Descripción | Lenguaje | Evidencias |
 |----|--------------------|-------------|----------|------------|
@@ -7,4 +8,9 @@
 | 3  | Nearpod Conjuntos  | Nearpod de conjuntos | No aplica | [Enlace](https://github.com/Fernando44PF/U3_ejercicios_guiados-Swing/blob/main/Neaarpod%20Conjuntos.docx) |
 | 4  |         Nearpod Diccionarios           |      Nearpod de Diccionarios         |    no aplica       |     [Enlace](https://github.com/Fernando44PF/U3_ejercicios_guiados-Swing/blob/main/Nearpo_Diccionarios.docx)       |
 
+
+Arbol Binario (Trabajo en libreta)
+| ID | Nombre del Archivo | Descripción | Lenguaje | Evidencias |
+|----|--------------------|-------------|----------|------------|
+| 1  | Arbol Binario   | Trabajo en libreta  | no aplica |      [Enlace]()     |
 
