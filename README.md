@@ -16,7 +16,7 @@
 # Nearpod Diccionarios (Corregido)
 | ID | Nombre del Archivo   | Descripción             | Lenguaje  | Evidencias                                                                                               |
 | -- | -------------------- | ----------------------- | --------- | -------------------------------------------------------------------------------------------------------- |
-| 4  | Nearpod Diccionarios | Nearpod de Diccionarios | no aplica | [Enlace](https://github.com/Fernando44PF/U3_ejercicios_guiados-Swing/blob/main/Nearpo_Diccionarios.docx) |
+| 4  | Nearpod Diccionarios | Nearpod de Diccionarios | no aplica | [Enlace](https://github.com/Fernando44PF/U3_ejercicios_guiados-Swing/blob/main/Nearpod%20Diccionarioss.pdf) |
 
 
 # Arbol Binario (Trabajo en libreta)
